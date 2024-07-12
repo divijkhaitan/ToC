@@ -1,0 +1,3 @@
+This is my code for CS-1349 Theory of Computation. I don't think there will be much code added to this repository but decided to make it anyway.
+
+NOTE for creating an NFA from regex: The union operation in a regular expression is expressed using both the | operator as well as the + operator. The + operator is also used to denote 'at least one of' in certain a certain convention. In this case, I have used both | and + to denote union, if you need to use 'at least one of' then replace R+ with R(R)*
